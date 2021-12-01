@@ -6,7 +6,6 @@ Esse link  contém os principais p1rojetos realizado por mim (mais alguns colabo
 Análise de médias, gráficos de boxplot, teste t e definições de funções para simplificar análises (ANOVA), para cultivares de pêssegos em 8 analitos diferentes.
 
 ## [Estudo de médias para pacientes com zumbidos crônicos antes e pós terapia](https://github.com/VitorBSP/Sigma_Projeto_Fonoaudiologia)
-About
 Análise Descritiva, Análise de médias (ANOVA) e gráficos de boxplot para verificação de terapia com antes e pós tratamento em pacientes com zumbido crônico.
 
 ## [Estudo de médias para cultivares com e sem casca e Análise Multivariada](https://github.com/VitorBSP/Sigma_Projeto-Quimica2)
